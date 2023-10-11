@@ -1,1 +1,1 @@
-asks for your name and the year you were born adn subtracts it by the year to get your age
+asks for your name and the year you were born and subtracts it by the year to get your age
